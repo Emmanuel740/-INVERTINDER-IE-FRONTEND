@@ -1,0 +1,8 @@
+{
+  "greeting": "Bonjour tout le monde",
+  "other_text": "C'est une application avec plusieurs langues",
+  "nested": {
+    "nested_1": "fench text",
+    "nested_2": "french text"
+  }
+}
